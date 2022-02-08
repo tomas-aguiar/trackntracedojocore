@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackNTraceDojo", "trackntracedojocore\TrackNTraceDojo.csproj", "{36A9B448-DA1E-473E-98D6-20278D9E175A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackNTraceDojoTests", "TrackNTraceDojoTests\TrackNTraceDojoTests.csproj", "{C2F25BAC-3B71-4FED-8CAF-DDA287D3CEB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A9B448-DA1E-473E-98D6-20278D9E175A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A9B448-DA1E-473E-98D6-20278D9E175A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A9B448-DA1E-473E-98D6-20278D9E175A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A9B448-DA1E-473E-98D6-20278D9E175A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F25BAC-3B71-4FED-8CAF-DDA287D3CEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F25BAC-3B71-4FED-8CAF-DDA287D3CEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F25BAC-3B71-4FED-8CAF-DDA287D3CEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F25BAC-3B71-4FED-8CAF-DDA287D3CEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2DC4C7-6B41-4F12-8417-8D738776936A}
+	EndGlobalSection
+EndGlobal
